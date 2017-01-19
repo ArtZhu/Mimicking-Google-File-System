@@ -1,0 +1,11 @@
+RM_udpaddr
+localhost
+
+RM_udpport
+9901
+
+RM_RS_mcaddr
+224.0.0.231
+
+RM_RS_mcport
+8821
